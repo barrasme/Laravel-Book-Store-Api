@@ -1,4 +1,8 @@
-# Book store API
+# Book Store API
+
+A simple test to build a basic API which will return book data.
+
+Built in a restful way.
 
 System used Laravel Lumen as the base.
 
